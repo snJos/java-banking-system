@@ -1,0 +1,1 @@
+This Banking Application is a simple, user-friendly system designed to handle basic banking operations. Built with modern programming practices, it simulates functionalities typically seen in banking software, including account management, deposits, withdrawals, and balance inquiries.
